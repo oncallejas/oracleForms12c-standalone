@@ -1,24 +1,29 @@
 # Instalación de Oracle Forms 12c Standalone
 
 ## Requerimientos
+
 - Java SE Development Kit
 - MS Visual C++ 2012
 - Oracle Forms 12c
 
 ## Consideracines
+
 La instalación fué realizada sobre Windows 10 Pro x64
 
 ## Instalación de Java Development Kit 8
+
 La instalación del JDK SE es la tipica, la versión utilizada se puede encontrar en el siguiente enlace:
 
 [Java SE Development Kit](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 
 ## Instalación de MS Visual C++
+
 Oracle Forms 12c requiere de MS Visual C++ 2012 para su instalación. Se pueden obtener desdes el siguiente enlace:
 
 [MS Visual C++ 2012](https://www.microsoft.com/es-es/download/details.aspx?id=30679)
 
 ## Instalación de Oracle Forms 12c
+
 Se debe de contar con el instalador de Oracle Forms 12c, sino lo tiene, puede obtenerlo en el siguiente enlace:
 
 [Oracle Forms 12c](https://www.oracle.com/middleware/technologies/forms/downloads.html)
